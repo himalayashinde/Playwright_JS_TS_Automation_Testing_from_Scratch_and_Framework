@@ -1,0 +1,14 @@
+{
+  "name": "playwright_js_ts_automation_testing_from_scratch_and_framework",
+  "version": "1.0.0",
+  "description": "Playwright_JS_TS_Automation_Testing_from_Scratch_and_Framework",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.3"
+  }
+}
