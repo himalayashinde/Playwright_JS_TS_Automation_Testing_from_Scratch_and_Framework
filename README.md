@@ -1,1 +1,1 @@
-# playwright_training
+Playwright_JS_TS_Automation_Testing_from_Scratch_and_Framework
