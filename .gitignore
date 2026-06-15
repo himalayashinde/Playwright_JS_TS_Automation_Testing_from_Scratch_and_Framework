@@ -1,4 +1,12 @@
+# Ignore zip artifacts and large generated files
+"Zip Artifacts/"
+*.zip
 
+# Node artifacts
+node_modules/
+playwright-report/
+allure-results/
+allure-report/
 # Playwright
 node_modules/
 /test-results/
